@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.Apidemo.apidemo.test.ApidemoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.277 s <<< FAILURE! - in com.Apidemo.apidemo.test.ApidemoTest
+com.Apidemo.apidemo.test.ApidemoTest.accesibleIdTest  Time elapsed: 0.014 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.Apidemo.apidemo.test.ApidemoTest.accesibleIdTest(ApidemoTest.java:20)
+

@@ -1,0 +1,23 @@
+{
+  "staging": {
+    "appium_server_url": "http://192.168.1.2:4723",
+    "platform_name": "Android",
+    "device_name": "suman",
+    "Automation_Name": "UiAutomator2",
+    "App_path": "/Users/shammi/Downloads/ApiDemos-debug.apk"
+  },
+  "preprod": {
+    "appium_server_url": "http://192.168.1.2:4723",
+    "platform_name": "Android",
+    "device_name": "suman",
+    "Automation_Name": "UiAutomator2",
+    "App_path": "/Users/shammi/Downloads/ApiDemos-debug.apk"
+  },
+  "prod": {
+    "appium_server_url": "http://192.168.1.2:4723",
+    "platform_name": "Android",
+    "device_name": "suman",
+    "Automation_Name": "UiAutomator2",
+    "App_path": "/Users/shammi/Downloads/ApiDemos-debug.apk"
+  }
+}
